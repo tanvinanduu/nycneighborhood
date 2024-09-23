@@ -1,7 +1,7 @@
 # **NYC Neighborhood Insights Platform**
 Explore the heart of New York City with our NYC Neighborhood Insights Platform. This comprehensive guide provides detailed, hyper-localized information on each of NYC's boroughs—from housing and crime stats to amenities. Our platform is tailored to meet the needs of residents, visitors, and urban planners with a dynamic search interface, interactive maps, and an AI-powered chatbot.
 
-### **Features:**
+### **Features:** 
 
 - Dynamic Search Interface: Search by borough or zip code to access detailed insights.
 - Interactive Visualizations: Engaging maps and charts provide clear visualizations of data.
